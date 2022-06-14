@@ -8,8 +8,8 @@ latitude: "COMPLETAR"       # latitud del espacio en formato decimal (por ejempl
 longitude: "COMPLETAR"    # longitud del espacio en formato decimal (por ejemplo, "-87.6007318" - usar http://www.latlong.net/)
 humandate: "Jun 18, 2022"    # fechas del taller en formato legible (por ejemplo, "Feb 17-18, 2020")
 humantime: "9:00 am - 12:00 pm"    # hora del taller en formato legible (por ejemplo, "9:00 am - 4:30 pm")
-startdate: COMPLETAR      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
-enddate: COMPLETAR        # fecha de finalización del taller en formato YYYY-MM-DD, por ejemplo 2015-01-02
+startdate: 2022-06-18      # fecha de inicio del taller en formato YYYY-MM-DD (por ejemplo, 2015-01-01)
+enddate: 2022-06-18        # fecha de finalización del taller en formato YYYY-MM-DD, por ejemplo 2015-01-02
 instructor: ["Lorena Montoya Freire"] # lista de nombres de las instructoras separados por comas y entre corchetes, como ["Hedy Lamarr", "Ada Lovelace", "Madame Curie"]
 #helper: ["COMPLETAR"]     # lista de nombres de las **helpers** separados por comas y entre corchetes, como ["Carrie Fisher", "Frances Allen", "Margaret Hamilton"]
 email: ["mmontoyaf@ecotec.edu.ec"]    # lista de direcciones de correo electrónico de contacto con la **host** ó **lead instructor**, separadas por comas y entre corchetes, como ["ada.lovelace@ejemplo.org", "carrie.fisher@ejemplo.org", "hedy.lamarr@example.org"]
