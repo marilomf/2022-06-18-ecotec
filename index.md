@@ -479,64 +479,6 @@ escape, seguido por <code>:q!</code>(colon, olon, lower-case 'q',
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
-<div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
-  <h3>R</h3>
-
-  <p>
-    <a href="http://www.r-project.org">R</a> es un lenguaje de programación 
-    especialmente poderoso para exploración de datos, visualización y  
-    análisis estadístico. Para trabajar con R, usamos
-    <a href="http://www.rstudio.com/">RStudio</a>.
-  </p>
-
-  <div class="row">
-    <div class="col-md-4">
-      <h4 id="r-windows">Windows</h4>
-      <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial en inglés </a>
-      <p>
-
-
-
-        Instala R descargando e instalando
-        <a href="http://cran.r-project.org/bin/windows/base/release.htm">este archivo .exe </a>
-        desde <a href="http://cran.r-project.org/index.html">CRAN</a>.
-        Además, instala el entorno de desarrollo integrado, en inglés Integrated Development Environment (IDE) 
-        <a href="http://www.rstudio.com/ide/download/desktop">RStudio</a>.
-        Ten en cuenta que si tienes cuentas separadas de usuario y administrador,
-	debes correr los instaladores como administrador (haz click derecho en el 
-        archivo .exe y selecciona "Ejecutar como administrador" en lugar de hacer doble click)  
-        De lo contrario pueden ocurrir problemas, por ejemplo, cuando instales paquetes de R.
-
-
-      </p>
-    </div>
-    <div class="col-md-4">
-      <h4 id="r-macosx">macOS</h4>
-      <a href="https://www.youtube.com/watch?v=5-ly3kyxwEg">Video Tutorial en inglés</a>
-      <p>
-        Instala R descargando e instalando
-        <a href="http://cran.r-project.org/bin/macosx/R-latest.pkg">este archivo .pkg </a>
-        desde <a href="http://cran.r-project.org/index.html">CRAN</a>.
-        Además, instala el entorno de desarrollo integrado, en inglés Integrated Development Environment (IDE) 
-        <a href="http://www.rstudio.com/ide/download/desktop">RStudio</a>.
-      </p>
-    </div>
-    <div class="col-md-4">
-      <h4 id="r-linux">Linux</h4>
-      <p>
-        Puedes descargar los archivos binarios para tu distribución
-        desde <a href="http://cran.r-project.org/index.html">CRAN</a>. O
-        puedes usar tu administrador de paquetes (por ejemplo: para Debian/Ubuntu
-        corre <code>sudo apt-get install r-base</code> y para Fedora corre
-        <code>sudo dnf install R</code>).  Además, por favor instala el entorno de desarrollo integrado, 
-	en inglés Integrated Development Environment (IDE) 
-        <a href="http://www.rstudio.com/ide/download/desktop">RStudio</a>.
-      </p>
-    </div>
-  </div>
-</div> {% comment %} End of 'R' section. {% endcomment %}
-
-
 {% comment %}
  
  
