@@ -124,7 +124,7 @@ eventbrite:           # optional: clave alfanumérica de registro en Eventbrite,
   Modifica este bloque si hay algún requerimiento especial.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requerimientos:</strong> Los asistentes deben traer una computadora portátil con sistema operativo Mac, Linux o Windows (no tablet, Chromebook, etc.), que tenga permisos de administradora habilitados. Deben tener algunos paquetes de software específicos instalados (listados <a href="#setup">aquí</a>). 
+  <strong>Requerimientos:</strong> Los asistentes deben tener una computadora portátil con sistema operativo Mac, Linux o Windows (no tablet, Chromebook, etc.), que tenga permisos de administradora habilitados. Deben tener algunos paquetes de software específicos instalados (listados <a href="#setup">aquí</a>). 
 	
 También es requerido que respeten el 
   {% if site.carpentry == "swc" %}
